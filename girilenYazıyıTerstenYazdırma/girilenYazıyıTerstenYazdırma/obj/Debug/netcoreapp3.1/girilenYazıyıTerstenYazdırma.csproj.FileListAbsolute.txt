@@ -1,0 +1,13 @@
+C:\Users\selim\Desktop\C#Vize\girilenYazıyıTerstenYazdırma\girilenYazıyıTerstenYazdırma\obj\Debug\netcoreapp3.1\girilenYazıyıTerstenYazdırma.csprojAssemblyReference.cache
+C:\Users\selim\Desktop\C#Vize\girilenYazıyıTerstenYazdırma\girilenYazıyıTerstenYazdırma\obj\Debug\netcoreapp3.1\girilenYazıyıTerstenYazdırma.csproj.CoreCompileInputs.cache
+C:\Users\selim\Desktop\C#Vize\girilenYazıyıTerstenYazdırma\girilenYazıyıTerstenYazdırma\obj\Debug\netcoreapp3.1\girilenYazıyıTerstenYazdırma.AssemblyInfoInputs.cache
+C:\Users\selim\Desktop\C#Vize\girilenYazıyıTerstenYazdırma\girilenYazıyıTerstenYazdırma\obj\Debug\netcoreapp3.1\girilenYazıyıTerstenYazdırma.AssemblyInfo.cs
+C:\Users\selim\Desktop\C#Vize\girilenYazıyıTerstenYazdırma\girilenYazıyıTerstenYazdırma\bin\Debug\netcoreapp3.1\girilenYazıyıTerstenYazdırma.exe
+C:\Users\selim\Desktop\C#Vize\girilenYazıyıTerstenYazdırma\girilenYazıyıTerstenYazdırma\bin\Debug\netcoreapp3.1\girilenYazıyıTerstenYazdırma.deps.json
+C:\Users\selim\Desktop\C#Vize\girilenYazıyıTerstenYazdırma\girilenYazıyıTerstenYazdırma\bin\Debug\netcoreapp3.1\girilenYazıyıTerstenYazdırma.runtimeconfig.json
+C:\Users\selim\Desktop\C#Vize\girilenYazıyıTerstenYazdırma\girilenYazıyıTerstenYazdırma\bin\Debug\netcoreapp3.1\girilenYazıyıTerstenYazdırma.runtimeconfig.dev.json
+C:\Users\selim\Desktop\C#Vize\girilenYazıyıTerstenYazdırma\girilenYazıyıTerstenYazdırma\bin\Debug\netcoreapp3.1\girilenYazıyıTerstenYazdırma.dll
+C:\Users\selim\Desktop\C#Vize\girilenYazıyıTerstenYazdırma\girilenYazıyıTerstenYazdırma\bin\Debug\netcoreapp3.1\girilenYazıyıTerstenYazdırma.pdb
+C:\Users\selim\Desktop\C#Vize\girilenYazıyıTerstenYazdırma\girilenYazıyıTerstenYazdırma\obj\Debug\netcoreapp3.1\girilenYazıyıTerstenYazdırma.dll
+C:\Users\selim\Desktop\C#Vize\girilenYazıyıTerstenYazdırma\girilenYazıyıTerstenYazdırma\obj\Debug\netcoreapp3.1\girilenYazıyıTerstenYazdırma.pdb
+C:\Users\selim\Desktop\C#Vize\girilenYazıyıTerstenYazdırma\girilenYazıyıTerstenYazdırma\obj\Debug\netcoreapp3.1\girilenYazıyıTerstenYazdırma.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\selim\Desktop\C#Vize\ebobEkokHesaplama\EbobHesaplama\EbobHesaplama\bin\Debug\netcoreapp3.1\EbobHesaplama.exe
+C:\Users\selim\Desktop\C#Vize\ebobEkokHesaplama\EbobHesaplama\EbobHesaplama\bin\Debug\netcoreapp3.1\EbobHesaplama.deps.json
+C:\Users\selim\Desktop\C#Vize\ebobEkokHesaplama\EbobHesaplama\EbobHesaplama\bin\Debug\netcoreapp3.1\EbobHesaplama.runtimeconfig.json
+C:\Users\selim\Desktop\C#Vize\ebobEkokHesaplama\EbobHesaplama\EbobHesaplama\bin\Debug\netcoreapp3.1\EbobHesaplama.runtimeconfig.dev.json
+C:\Users\selim\Desktop\C#Vize\ebobEkokHesaplama\EbobHesaplama\EbobHesaplama\bin\Debug\netcoreapp3.1\EbobHesaplama.dll
+C:\Users\selim\Desktop\C#Vize\ebobEkokHesaplama\EbobHesaplama\EbobHesaplama\bin\Debug\netcoreapp3.1\EbobHesaplama.pdb
+C:\Users\selim\Desktop\C#Vize\ebobEkokHesaplama\EbobHesaplama\EbobHesaplama\obj\Debug\netcoreapp3.1\EbobHesaplama.csprojAssemblyReference.cache
+C:\Users\selim\Desktop\C#Vize\ebobEkokHesaplama\EbobHesaplama\EbobHesaplama\obj\Debug\netcoreapp3.1\EbobHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\selim\Desktop\C#Vize\ebobEkokHesaplama\EbobHesaplama\EbobHesaplama\obj\Debug\netcoreapp3.1\EbobHesaplama.AssemblyInfoInputs.cache
+C:\Users\selim\Desktop\C#Vize\ebobEkokHesaplama\EbobHesaplama\EbobHesaplama\obj\Debug\netcoreapp3.1\EbobHesaplama.AssemblyInfo.cs
+C:\Users\selim\Desktop\C#Vize\ebobEkokHesaplama\EbobHesaplama\EbobHesaplama\obj\Debug\netcoreapp3.1\EbobHesaplama.dll
+C:\Users\selim\Desktop\C#Vize\ebobEkokHesaplama\EbobHesaplama\EbobHesaplama\obj\Debug\netcoreapp3.1\EbobHesaplama.pdb
+C:\Users\selim\Desktop\C#Vize\ebobEkokHesaplama\EbobHesaplama\EbobHesaplama\obj\Debug\netcoreapp3.1\EbobHesaplama.genruntimeconfig.cache

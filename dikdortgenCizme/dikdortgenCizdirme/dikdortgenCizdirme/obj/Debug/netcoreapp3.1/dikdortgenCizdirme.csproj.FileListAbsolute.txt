@@ -1,0 +1,13 @@
+C:\Users\selim\Desktop\C#Vize\dikdortgenCizme\dikdortgenCizdirme\dikdortgenCizdirme\bin\Debug\netcoreapp3.1\dikdortgenCizdirme.exe
+C:\Users\selim\Desktop\C#Vize\dikdortgenCizme\dikdortgenCizdirme\dikdortgenCizdirme\bin\Debug\netcoreapp3.1\dikdortgenCizdirme.deps.json
+C:\Users\selim\Desktop\C#Vize\dikdortgenCizme\dikdortgenCizdirme\dikdortgenCizdirme\bin\Debug\netcoreapp3.1\dikdortgenCizdirme.runtimeconfig.json
+C:\Users\selim\Desktop\C#Vize\dikdortgenCizme\dikdortgenCizdirme\dikdortgenCizdirme\bin\Debug\netcoreapp3.1\dikdortgenCizdirme.runtimeconfig.dev.json
+C:\Users\selim\Desktop\C#Vize\dikdortgenCizme\dikdortgenCizdirme\dikdortgenCizdirme\bin\Debug\netcoreapp3.1\dikdortgenCizdirme.dll
+C:\Users\selim\Desktop\C#Vize\dikdortgenCizme\dikdortgenCizdirme\dikdortgenCizdirme\bin\Debug\netcoreapp3.1\dikdortgenCizdirme.pdb
+C:\Users\selim\Desktop\C#Vize\dikdortgenCizme\dikdortgenCizdirme\dikdortgenCizdirme\obj\Debug\netcoreapp3.1\dikdortgenCizdirme.csprojAssemblyReference.cache
+C:\Users\selim\Desktop\C#Vize\dikdortgenCizme\dikdortgenCizdirme\dikdortgenCizdirme\obj\Debug\netcoreapp3.1\dikdortgenCizdirme.csproj.CoreCompileInputs.cache
+C:\Users\selim\Desktop\C#Vize\dikdortgenCizme\dikdortgenCizdirme\dikdortgenCizdirme\obj\Debug\netcoreapp3.1\dikdortgenCizdirme.AssemblyInfoInputs.cache
+C:\Users\selim\Desktop\C#Vize\dikdortgenCizme\dikdortgenCizdirme\dikdortgenCizdirme\obj\Debug\netcoreapp3.1\dikdortgenCizdirme.AssemblyInfo.cs
+C:\Users\selim\Desktop\C#Vize\dikdortgenCizme\dikdortgenCizdirme\dikdortgenCizdirme\obj\Debug\netcoreapp3.1\dikdortgenCizdirme.dll
+C:\Users\selim\Desktop\C#Vize\dikdortgenCizme\dikdortgenCizdirme\dikdortgenCizdirme\obj\Debug\netcoreapp3.1\dikdortgenCizdirme.pdb
+C:\Users\selim\Desktop\C#Vize\dikdortgenCizme\dikdortgenCizdirme\dikdortgenCizdirme\obj\Debug\netcoreapp3.1\dikdortgenCizdirme.genruntimeconfig.cache
